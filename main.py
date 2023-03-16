@@ -27,7 +27,7 @@ def modulo(x, y):
 def floor_divide(x, y):
     return x // y
 
-
+print("JITI'S PYTHON LEARNING ##")
 print("Welcome to the Simple Calculator!")
 print("Please select the type of calculation you want to perform:")
 print("1. Addition")
